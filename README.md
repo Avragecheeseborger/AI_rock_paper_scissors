@@ -4,3 +4,13 @@ Use the code below to run the game:
 ```bash
 python main.py
 ```
+You might have to install numpy or tensorflow.
+
+To install tensorflow use:
+```bash
+pip install tensorflow
+```
+And for numpy:
+```bash
+pip install numpy
+```
